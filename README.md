@@ -28,5 +28,5 @@ Socials
 -------------------
 <p align="left"> <a href="https://www.github.com/CherenkovDenis" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 <a href="https://t.me/GG7078" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="32" height="32" /></a>
-<a href="https://izhevsk450@gmail.com" target="_blank" rel="noreferrer"><img src="[https://cdn-icons-png.flaticon.com/512/2111/2111646.png]https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" width="32" height="32" /></a>
+<a href="https://izhevsk450@gmail.com" target="_blank" rel="noreferrer"><img src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" width="32" height="32" /></a>
 </p>
