@@ -27,3 +27,4 @@ GitHub stats
 Socials
 -------------------
 <p align="left"> <a href="https://www.github.com/CherenkovDenis" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://t.me/GG7078" target="_blank" rel="noreferrer"><img src="![image](https://user-images.githubusercontent.com/126342328/226892975-554d7c98-c1d5-4e68-a1a6-6951bf025914.png)" width="32" height="32" /></a></p>
