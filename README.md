@@ -5,7 +5,8 @@ Front-end developer
 -------------------
 
 * 🌍  I'm based in Izhevsk, Russia
-* 
+
+
 
 ### Skills
 -------------------
@@ -20,10 +21,12 @@ Front-end developer
 
 
 
+
 ### Badges
 -------------------
 <b>My GitHub Stats</b>
 <a href="http://www.github.com/CherenkovDenis"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=CherenkovDenis&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
 
 
 
