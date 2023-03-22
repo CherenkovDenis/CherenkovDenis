@@ -45,6 +45,7 @@
 ## Socials
 <p align="left"> <a href="https://www.github.com/CherenkovDenis" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 <a href="https://t.me/GG7078" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="32" height="32" /></a>
+<a href="https://discordapp.com/users/Forb#8407" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/353655/discord-icon.svg" width="32" height="32" /></a>
 <a href="mailto:izhevsk450@gmail.com" target="_blank" rel="noreferrer"><img src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" width="32" height="32" /></a>
 </p>
   
