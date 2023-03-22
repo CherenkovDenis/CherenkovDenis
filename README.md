@@ -1,4 +1,4 @@
-## <div align="center">Привет 👋 Меня зовут Денис</div>  
+## <div align="center">Привет! 👋 Меня зовут Денис</div>  
   
 
 ### <div align="center">Я начинающий front-end разработчик.</div>  
