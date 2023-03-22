@@ -5,6 +5,7 @@ Front-end developer
 -------------------
 
 * 🌍  I'm based in Izhevsk, Russia
+* <div></div>
 
 
 
@@ -18,15 +19,15 @@ Front-end developer
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
+<div></div>
 
 
 
-
-### Badges
+### GitHub stats
 -------------------
 <b>My GitHub Stats</b>
 <a href="http://www.github.com/CherenkovDenis"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=CherenkovDenis&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
+<div></div>
 
 
 
